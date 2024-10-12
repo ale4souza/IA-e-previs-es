@@ -39,5 +39,5 @@ O objetivo principal é analisar as informações dos clientes do banco e desenv
 ### Como Utilizar
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/score-de-credito-ia.git
-   cd score-de-credito-ia
+   git clone https://github.com/ale4souza/Previsoes-usando-IA.git
+ 
